@@ -1,0 +1,5 @@
+class ContaBancaria
+    def__init__(self, titular, saldo):
+        self.tiltular = titular
+        self._saldo = saldo
+        self.__senha = "1234"
